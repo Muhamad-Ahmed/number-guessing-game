@@ -1,0 +1,16 @@
+{
+  "name": "number_guessing_game_ahmedshahid",
+  "version": "1.0.0",
+  "description": "This is number guessing game made with typescript and inquirer. Guess a correct number between 1 to 6 to win the game.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Shahid",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
